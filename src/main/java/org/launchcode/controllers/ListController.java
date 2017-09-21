@@ -12,7 +12,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.util.ArrayList;
 
 /**
- * Created by LaunchCode
+ * Idea created by LaunchCode
+ * Idea coded by Kate Boston
  */
 @Controller
 @RequestMapping(value = "list")
