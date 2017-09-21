@@ -15,7 +15,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.validation.Valid;
 
 /**
- * Created by LaunchCode
+ * Idea created by LaunchCode
+ * Idea coded by Kate Boston
  */
 @Controller
 @RequestMapping(value = "job")
