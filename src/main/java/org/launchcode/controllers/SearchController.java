@@ -12,7 +12,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.ArrayList;
 
 /**
- * Created by LaunchCode
+ * Idea created by LaunchCode
+ * Idea coded by Kate Boston
  */
 @Controller
 @RequestMapping("search")
